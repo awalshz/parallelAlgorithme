@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0e295ea0-9409-44aa-8bbb-c4ed96b18095" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="BSP">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ReGAQftesUinnay6AWizIYJzOl" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../week3/kmeans" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="parprog1-reductions" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="root [file:/C:/Users/Alex/Desktop/ProgramasScala/ParallelProgramming/week2/reductions/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="parprog1-reductions-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="18840239293590" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="389101485" />
+        <entry key="$PROJECT_DIR$/project/CommonBuild.scala" value="2286689913" />
+        <entry key="$PROJECT_DIR$/project/Courses.scala" value="1290868088" />
+        <entry key="$PROJECT_DIR$/project/GradingFeedback.scala" value="1185184919" />
+        <entry key="$PROJECT_DIR$/project/ScalaTestRunner.scala" value="288196450" />
+        <entry key="$PROJECT_DIR$/project/Settings.scala" value="3362305541" />
+        <entry key="$PROJECT_DIR$/project/StudentBuild.scala" value="4288349219" />
+        <entry key="$PROJECT_DIR$/project/StudentBuildLike.scala" value="2076816827" />
+        <entry key="$PROJECT_DIR$/project/StyleChecker.scala" value="1430858080" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="934637055" />
+        <entry key="$PROJECT_DIR$/project/buildSettings.sbt" value="3364732609" />
+        <entry key="$PROJECT_DIR$/project/plugins.sbt" value="3604734976" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../FuncionalProgramming/funsets/funsets" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../FuncionalProgramming/patmat" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../FuncionalProgramming/week6/forcomp" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../FuncionalProgramming2/calculator" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../FuncionalProgramming2/quickcheck" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../FuncionalProgramming2/streams" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../HelloWorld" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../week1/scalashop" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../example" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e295ea0-9409-44aa-8bbb-c4ed96b18095" name="Default Changelist" comment="" />
+      <created>1570020003311</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570020003311</updated>
+    </task>
+    <servers />
+  </component>
+</project>
